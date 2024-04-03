@@ -11,7 +11,7 @@ Variable are declared ouside of any function or block to have global scope.
 
 Global variables are accessible from anywhere in the code, including within functions and blocks.
 
-GGThey are defines using 'var', 'let', or 'const' keywords outside of any function or block/
+They are defines using 'var', 'let', or 'const' keywords outside of any function or block.
 
 
 Example:
@@ -27,7 +27,7 @@ callFun();
 
 # Function scope:
 
-Variables declared within a fucntion have function scope, they are only accesible within a function in which they are declared. 
+Variables declared within a function have function scope, they are only accesible within a function in which they are declared. 
 
 Example
 
